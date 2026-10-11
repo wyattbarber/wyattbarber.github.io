@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Wyatt's Homepage
 description: Landing page for all my projects
+logo: /assets/img/me.png
+show_downloads: false
