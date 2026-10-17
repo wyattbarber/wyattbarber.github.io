@@ -74,9 +74,7 @@ The code and term paper for this project can be found <a href="https://github.co
 
 <div style="flex: 1;">
 
-<img src="/assets/img/trees-1.png" alt="Failed to Load Image">
-<br>
-<img src="/assets/img/trees-2.png" alt="Failed to Load Image">
+<img src="/assets/img/badgerboat.png" alt="Failed to Load Image">
 
 </div>
 
