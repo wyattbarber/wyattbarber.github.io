@@ -1,19 +1,16 @@
-My Info
-=======
+# My Info
 
 LinkedIn: <https://www.linkedin.com/in/wyatt-barber-67b50315b>
 
 GitHub: <https://github.com/wyattbarber>
 
-My Projects
-===========
+# My Projects
 
 A selection of my ongoing and completed projects, with more info 
 available at the links given.
 
 
-Master's Thesis
----------------
+## Master's Thesis
 
 <div style="display: flex; gap: 20px;">
 
@@ -31,12 +28,13 @@ A drone equipped with such a device could find use in inspecting infrastructure 
 performing environmental data collections in difficult to reach places, or establishing emergency sensor and
 communication networks during disaster response.  
 <br>
+<br>
 The code used to implement image processing and grasper control functions
-can be found [here](https://github.com/wyattbarber/PerchDetector).
+can be found <a href="https://github.com/wyattbarber/PerchDetector">here</a>.
+<br>
 <br>
 For OpenSCAD scripts and KiCAD files used in the hardware design for this project,
-look [here](https://github.com/wyattbarber/Thesis-Design).
+look <a href="https://github.com/wyattbarber/Thesis-Design">here</a>.
 
 </div>
-
 </div>
