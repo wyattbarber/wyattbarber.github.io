@@ -19,7 +19,7 @@ Master's Thesis
 
 <div style="flex: 1;">
 
-![](/assets/img/drone-perched.jpg)
+<img src="/assets/img/drone-perched.jpg" alt="Failed to Load Image">
 
 </div>
 
@@ -30,10 +30,10 @@ a drone can perch from, and a grasping mechanism which can attach a drone to suc
 A drone equipped with such a device could find use in inspecting infrastructure such as power lines,
 performing environmental data collections in difficult to reach places, or establishing emergency sensor and
 communication networks during disaster response.  
-
+<br>
 The code used to implement image processing and grasper control functions
 can be found [here](https://github.com/wyattbarber/PerchDetector).
-
+<br>
 For OpenSCAD scripts and KiCAD files used in the hardware design for this project,
 look [here](https://github.com/wyattbarber/Thesis-Design).
 

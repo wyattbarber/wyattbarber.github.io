@@ -1,0 +1,10 @@
+---
+---
+@import "{{ site.theme }}";
+
+.site-header img, 
+.logo, 
+img.custom-logo {
+    max-height: 100px !important; 
+    width: auto !important;   
+}
