@@ -38,3 +38,31 @@ look <a href="https://github.com/wyattbarber/Thesis-Design">here</a>.
 
 </div>
 </div>
+
+
+## Tree Modeling
+
+<div style="display: flex; gap: 20px;">
+
+<div style="flex: 1;">
+
+<img src="/assets/img/trees-1.png" alt="Failed to Load Image">
+<br>
+<img src="/assets/img/trees-2.png" alt="Failed to Load Image">
+
+</div>
+
+<div style="flex: 1;">
+
+This project, done as a semester capstone during my master's coursework, developed an image processing method to generate graph-like 
+representations of trees from RGB images. Such a tool could find use in automated pruning robots, where
+connectivity of the branches in view must be analyzed to determine pruning locations. The project assessed
+reconstruction accuracy of the method in 2D test images.
+
+<br>
+<br>
+
+The code and term paper for this project can be found <a href="https://github.com/wyattbarber/EGR-600-Semester-Project">here</a>.
+
+</div>
+</div>
