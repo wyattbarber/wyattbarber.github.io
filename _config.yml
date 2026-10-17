@@ -3,3 +3,5 @@ title: Wyatt's Homepage
 description: Landing page for all my projects
 logo: /assets/img/me.jpg
 show_downloads: false
+kramdown:
+  header_links: true
