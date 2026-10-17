@@ -66,3 +66,33 @@ The code and term paper for this project can be found <a href="https://github.co
 
 </div>
 </div>
+
+
+## Badger BOAT
+
+<div style="display: flex; gap: 20px;">
+
+<div style="flex: 1;">
+
+<img src="/assets/img/trees-1.png" alt="Failed to Load Image">
+<br>
+<img src="/assets/img/trees-2.png" alt="Failed to Load Image">
+
+</div>
+
+<div style="flex: 1;">
+
+An undergraduate design project that I joined, aiming to create an autonomous boat capable of
+sampling water for toxic algae blooms. My contributions focused on LiDAR base obstacle avoidance
+and bridging communication between ROS and MOOS middlewares. Project was unfortunately not completed,
+due to 2020 COVID-19 disruptions.
+
+<br>
+<br>
+A project demo video can be found on <a href="https://youtu.be/pvoQRkPSWsU?si=Fi0oRiwn5qayXHwB">YouTube</a>.
+<br>
+<br>
+Some of my contributions to the project, to fix a bridge between middlewares, can be seen <a href="https://github.com/wyattbarber/moos-ros-bridge">here</a>.
+
+</div>
+</div>
